@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 winrt::import!(
     dependencies
         "os"
